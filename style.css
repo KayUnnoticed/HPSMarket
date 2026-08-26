@@ -1,0 +1,17 @@
+h1 {
+  color: royalblue;
+  font-family: arial;
+  margin-top: -20px;
+  margin-left: -20px;
+  font-size: 50px;
+}
+#top {
+  background-color: lightskyblue;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 1px;
+}
+body {
+  margin: 0;
+}
