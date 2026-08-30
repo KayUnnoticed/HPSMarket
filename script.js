@@ -1,7 +1,7 @@
-let stackchipstock = "Instock";
-let jumpystock = "Instock";
-let skittlestock = "Instock";
-let wfstock = "Instock";
+let stackchipstock = "In stock";
+let jumpystock = "In stock";
+let skittlestock = "In stock";
+let wfstock = "In stock";
 document.getElementById("stackchipstock").textContent = stackchipstock;
 document.getElementById("jumpystock").textContent = jumpystock;
 document.getElementById("skittlestock").textContent = skittlestock;
