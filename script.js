@@ -18,3 +18,46 @@ document.getElementById("stackchipstock").onclick = function() {
 
     document.getElementById("stackchipstock").textContent = stackchipstock;
 };
+document.getElementById("jumpystock").onclick = function() {
+
+    if (jumpystock === "In stock") {
+
+        jumpystock = "Not in stock";
+
+    } else {
+
+        jumpystock = "In stock";
+
+    }
+
+    document.getElementById("jumpystock").textContent = jumpystock;
+
+};document.getElementById("skittlestock").onclick = function() {
+
+    if (skittlestock === "In stock") {
+
+        skittlestock = "Not in stock";
+
+    } else {
+
+        skittlestock = "In stock";
+
+    }
+
+    document.getElementById("skittlestock").textContent = skittlestock;
+
+};document.getElementById("wfstock").onclick = function() {
+
+    if (wfstock === "In stock") {
+
+        wfstock = "Not in stock";
+
+    } else {
+
+        wfstock = "In stock";
+
+    }
+
+    document.getElementById("wfstock").textContent = wfstock;
+
+};
