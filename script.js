@@ -60,4 +60,4 @@ document.getElementById("jumpystock").onclick = function() {
 
     document.getElementById("wfstock").textContent = wfstock;
 
-};
+}
